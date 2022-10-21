@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sf197/sf197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I'm wh4am1
 
-> The quieter you become, the more you are able to hear.
+> 风会熄灭蜡烛,却能使火越烧越旺。 对随机性、不确定性和混沌也是一样:你要利用它们,而不是躲避它们。你要成为火,渴望得到风的吹拂。
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sf197&show_icons=true&title_color=428bed&icon_color=2c53db">
 
 - 🔭 23届本科应届生
